@@ -20,7 +20,7 @@ export default function Contact() {
       icon: Linkedin,
       label: "LinkedIn",
       value: "",
-      href: "https://www.linkedin.com/in/kundan-thota/",
+      href: "https://www.linkedin.com/in/kundanthota/",
     },
     {
       icon: Github,

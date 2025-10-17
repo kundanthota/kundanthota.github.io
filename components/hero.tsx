@@ -116,7 +116,7 @@ export default function Hero() {
               <div className="absolute inset-0 rounded-[2rem] bg-gradient-to-r from-primary/30 via-transparent to-primary/20 blur-3xl" />
               <div className="relative h-full w-full overflow-hidden rounded-[24px] border border-white/70 shadow-[0_35px_80px_-50px_rgba(79,70,229,0.45)]">
                 <div className="pointer-events-none absolute inset-0 bg-gradient-to-t from-slate-900/15 via-transparent to-transparent" />
-                <img src="/cover.png" alt="Portrait of Kundan Thota" className="block h-full w-full object-cover" />
+                <img src="./cover.png" alt="Portrait of Kundan Thota" className="block h-full w-full object-cover" />
               </div>
             </div>
           </Card>

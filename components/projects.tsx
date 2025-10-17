@@ -34,7 +34,7 @@ export default function Projects() {
         "Enhanced document splitting to retain critical information while ensuring efficient retrieval.",
       ],
       techStack: ["FastAPI", "LangChain", "Ollama", "GPT4AllEmbeddings"],
-      image: "/llm.gif",
+      image: "./llm.gif",
     },
     {
       title: "Human Cloth Generation for Different Pose Sequences",
@@ -47,7 +47,7 @@ export default function Projects() {
       ],
       challenges: [],
       techStack: ["Python", "PyTorch", "Graph Neural Networks", "GANs", "VAE"],
-      image: "/anime.gif",
+      image: "./anime.gif",
     },
     {
       title: "Estimation of 3D Avatar and Clothing Measurements",
@@ -60,7 +60,7 @@ export default function Projects() {
       ],
       challenges: [],
       techStack: ["Python", "Auto-encoder Networks", "Kernel-based Regression"],
-      image: "/3d-avatar-body-measurement-visualization.jpg",
+      image: "./3d-avatar-body-measurement-visualization.jpg",
     },
     {
       title: "Pairs Trading Strategy with News Sentiment Analysis",
@@ -73,7 +73,7 @@ export default function Projects() {
       ],
       challenges: [],
       techStack: ["Python", "NLP", "Sentiment Analysis", "Web Scraping", "Back Testing"],
-      image: "/stock-trading-dashboard-with-sentiment-analysis.jpg",
+      image: "./stock-trading-dashboard-with-sentiment-analysis.jpg",
     },
   ]
 

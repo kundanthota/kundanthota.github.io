@@ -8,9 +8,9 @@ import "./globals.css"
 export const metadata: Metadata = {
   title: "Kundan Thota | AI Researcher",
   description: "AI researcher and ML engineer shipping generative, forecasting, and vision systems across energy, supply chain, and fashion tech.",
-  generator: "v0.app",
+  generator: "kundan",
   icons: {
-    icon: "/favicon.ico",
+    icon: "./favicon.ico",
   },
 }
 
