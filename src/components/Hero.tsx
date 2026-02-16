@@ -7,7 +7,7 @@ export default function Hero() {
         <div className="text-center">
           {/* Profile Photo */}
           <div className="w-36 h-36 rounded-full border-4 border-zinc-200 dark:border-zinc-700 mx-auto mb-8 overflow-hidden bg-zinc-100 dark:bg-zinc-800 flex items-center justify-center">
-            <Image src="/pic.png" alt="Kundan Thota" width={144} height={144} className="object-cover w-full h-full" />
+            <Image src="./pic.png" alt="Kundan Thota" width={144} height={144} className="object-cover w-full h-full" />
           </div>
 
           <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold text-zinc-900 dark:text-white mb-6">
